@@ -9,7 +9,6 @@ GifSaver es una single web app que utiliza la API de Giphy que es una libreria d
 * JQuery v3.2.1
 * Bootstrap v3.3.7
 * Giphy-js-sdk-core v1.0.3
-* React v16.2.0
 * Uniq v1.0.1
 
 # Preview
