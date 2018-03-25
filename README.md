@@ -35,3 +35,9 @@ GifSaver es una single web app que utiliza la API de Giphy que es una libreria d
 # Licencia
 
 * ISC License
+
+## Desarrollado para
+
+Laboratoria
+
+***
